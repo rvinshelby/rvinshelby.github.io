@@ -3,7 +3,7 @@ title: A R V I N S H E L B Y
 subtitle: D E L E O N
 email: vin.shelby@gmail.com
 description: This is my personal blog and portfolio site.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: 'https://rvinshelby.github.io/' # the base hostname & protocol for your site
 author: '@rvinshelby'
 street_address: '#77 14th Street New kalalake'
